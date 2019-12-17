@@ -1,4 +1,4 @@
-;hiSetBindKey("Layout" "Shift<Key>1" "ShapeRuler()")
+;hiSetBindKey("Layout" "Shift<Key>1" "shaperuler()")
 procedure(shaperuler()
 	prog((cv obj xlist ylist path)
 		cv = geGetWindowCellView()
